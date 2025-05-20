@@ -25,5 +25,5 @@ This tool helps researchers, farmers, and students visualize potential soil cont
 
 ---
 
-👨‍💻 Created by: [Your Name]  
-🎓 3MTT FellowID: [Your FellowID]
+👨‍💻 Created by: [Ziyaulhaq Auwal Abdulkadir]  
+🎓 3MTT FellowID: [FE/24/1224058204]
